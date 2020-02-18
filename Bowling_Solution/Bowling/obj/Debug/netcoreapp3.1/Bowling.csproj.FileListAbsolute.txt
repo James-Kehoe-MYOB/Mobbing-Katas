@@ -1,0 +1,11 @@
+/Users/james.kehoe/RiderProjects/Bowling_Solution/Bowling/bin/Debug/netcoreapp3.1/Bowling
+/Users/james.kehoe/RiderProjects/Bowling_Solution/Bowling/bin/Debug/netcoreapp3.1/Bowling.deps.json
+/Users/james.kehoe/RiderProjects/Bowling_Solution/Bowling/bin/Debug/netcoreapp3.1/Bowling.runtimeconfig.json
+/Users/james.kehoe/RiderProjects/Bowling_Solution/Bowling/bin/Debug/netcoreapp3.1/Bowling.runtimeconfig.dev.json
+/Users/james.kehoe/RiderProjects/Bowling_Solution/Bowling/bin/Debug/netcoreapp3.1/Bowling.dll
+/Users/james.kehoe/RiderProjects/Bowling_Solution/Bowling/bin/Debug/netcoreapp3.1/Bowling.pdb
+/Users/james.kehoe/RiderProjects/Bowling_Solution/Bowling/obj/Debug/netcoreapp3.1/Bowling.csprojAssemblyReference.cache
+/Users/james.kehoe/RiderProjects/Bowling_Solution/Bowling/obj/Debug/netcoreapp3.1/Bowling.AssemblyInfoInputs.cache
+/Users/james.kehoe/RiderProjects/Bowling_Solution/Bowling/obj/Debug/netcoreapp3.1/Bowling.AssemblyInfo.cs
+/Users/james.kehoe/RiderProjects/Bowling_Solution/Bowling/obj/Debug/netcoreapp3.1/Bowling.dll
+/Users/james.kehoe/RiderProjects/Bowling_Solution/Bowling/obj/Debug/netcoreapp3.1/Bowling.pdb
